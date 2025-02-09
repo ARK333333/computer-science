@@ -7,7 +7,58 @@ This course has been developed by MIT and is available on [MIT's OCW](https://oc
 > Introduction to Computer Science and Programming in Python is intended for students with little or no programming experience. It aims to provide students with an understanding of the role computation can play in solving problems and to help students, regardless of their major, feel justifiably confident of their ability to write small programs that allow them to accomplish useful goals. The class uses the Python programming language.
 
 **Course Link:** <https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/material-by-lecture/>
+**coure progress**
+Lecture 1: Introduction
 
+Lecture 2: Strings, Input/Output, Branching
+
+Lecture 3: Iteration
+
+Lecture 4: Loops over Strings, Guess-and-Check, Binary
+
+Lecture 5: Floats and Approximation Methods
+
+Lecture 6: Bisection Search
+
+Lecture 7: Decomposition, Abstraction, Functions
+
+Lecture 8: Functions as Objects
+
+Lecture 9: Lambda Functions, Tuples, and Lists
+
+Lecture 10: Lists, Mutability
+
+Lecture 11: Aliasing, Cloning
+
+Lecture 12: List Comprehension, Functions as Objects, Testing, Debugging
+
+Lecture 13: Exceptions, Assertions
+
+Lecture 14: Dictionaries
+
+Lecture 15: Recursion
+
+Lecture 16: Recursion on Non-Numerics
+
+Lecture 17: Python Classes
+
+Lecture 18: More Python Class Methods
+
+Lecture 19: Inheritance
+
+Lecture 20: Fitness Tracker Object-Oriented Programming Example
+
+Lecture 21: Timing Programs, Counting Operations
+
+Lecture 22: Big Oh and Theta
+
+Lecture 23: Complexity Classes Examples
+
+Lecture 24: Sorting Algorithms
+
+Lecture 25: Plotting
+
+Lecture 26: List Access, Hashing, Simulations, and Wrap-Up
 ## ⚠️ Under Review
 
 This course is under review. The course has been designed to accommodate people completely new to programming. However, if you find the course difficult to follow, you can try doing one of the [Intro to Programming courses](../intro-programming/README.md) and then return to this course. We would like to hear your feedback regarding this course, and whether you needed to do the [Intro to Programming courses](../intro-programming/README.md) first. Please provide your feedback on this RFC: <https://github.com/ossu/computer-science/issues/1266>.
