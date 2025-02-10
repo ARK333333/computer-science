@@ -8,10 +8,11 @@ This course has been developed by MIT and is available on [MIT's OCW](https://oc
 
 **Course Link:** <https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/material-by-lecture/>
 **coure progress**
-Lecture 1: Introduction ✔️
-Lecture 2: Strings, Input/Output, Branching ✔️
+Lecture 1: Introduction ☑️
 
-Lecture 3: Iteration
+Lecture 2: Strings, Input/Output, Branching ☑️
+
+Lecture 3: Iteration ☑️
 
 Lecture 4: Loops over Strings, Guess-and-Check, Binary
 
