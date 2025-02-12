@@ -14,7 +14,7 @@ Lecture 2: Strings, Input/Output, Branching ☑️
 
 Lecture 3: Iteration ☑️
 
-Lecture 4: Loops over Strings, Guess-and-Check, Binary
+Lecture 4: Loops over Strings, Guess-and-Check, Binary ☑️
 
 Lecture 5: Floats and Approximation Methods
 
