@@ -18,7 +18,7 @@ Lecture 4: Loops over Strings, Guess-and-Check, Binary ☑️
 
 Lecture 5: Floats and Approximation Methods ☑️
 
-Lecture 6: Bisection Search
+Lecture 6: Bisection Search ☑️
 
 Lecture 7: Decomposition, Abstraction, Functions
 
