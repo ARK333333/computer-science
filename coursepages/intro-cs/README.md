@@ -20,7 +20,7 @@ Lecture 5: Floats and Approximation Methods ☑️
 
 Lecture 6: Bisection Search ☑️
 
-Lecture 7: Decomposition, Abstraction, Functions
+Lecture 7: Decomposition, Abstraction, Functions ☑️
 
 Lecture 8: Functions as Objects
 
