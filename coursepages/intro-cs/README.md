@@ -22,9 +22,9 @@ Lecture 6: Bisection Search ☑️
 
 Lecture 7: Decomposition, Abstraction, Functions ☑️
 
-Lecture 8: Functions as Objects
+Lecture 8: Functions as Objects ☑️
 
-Lecture 9: Lambda Functions, Tuples, and Lists
+Lecture 9: Lambda Functions, Tuples, and Lists ☑️
 
 Lecture 10: Lists, Mutability
 
