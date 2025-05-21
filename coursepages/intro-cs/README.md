@@ -26,7 +26,7 @@ Lecture 8: Functions as Objects ☑️
 
 Lecture 9: Lambda Functions, Tuples, and Lists ☑️
 
-Lecture 10: Lists, Mutability
+Lecture 10: Lists, Mutability ☑️
 
 Lecture 11: Aliasing, Cloning
 
