@@ -28,7 +28,7 @@ Lecture 9: Lambda Functions, Tuples, and Lists ☑️
 
 Lecture 10: Lists, Mutability ☑️
 
-Lecture 11: Aliasing, Cloning
+Lecture 11: Aliasing, Cloning ☑️
 
 Lecture 12: List Comprehension, Functions as Objects, Testing, Debugging
 
